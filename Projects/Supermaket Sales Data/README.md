@@ -26,11 +26,13 @@ The code for this project can be found in the [code folder](./code). Feel free t
 
 1. In the baseline model, the model has high root mean squared error with the value of 77.98 for train and 76.63 for test. It could not capture the different trend of each item code in the same seasonality
 ![image](https://github.com/prattapong/Data-Science-Portfolio/assets/124485030/69062919-85f4-43b6-94ce-23af76ce4005)
-2. 
+3. 
 
 ### Lessons Learned
 
-[Share the key lessons learned from the project. This could be related to data preprocessing, model selection, or any other aspect of the project.]
+1. From the basedline model, tuning the hyperparameter took place to improve the overfitting by
+   * Reducing `learning_rate` to 0.001 and 0.0007 to let the algorithm capture less changing
+   * Reducing `early_stoping_rounds` to 200 to stop the algorithm perform worse in RMSE
 
 ---
 
