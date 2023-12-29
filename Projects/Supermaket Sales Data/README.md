@@ -24,7 +24,7 @@ The code for this project can be found in the [code folder](./code). Feel free t
 
 ### Challenges Faced
 
-[Discuss any challenges or obstacles encountered during the project.]
+1. In the baseline model, the model has high root mean squared error with the value of 76.7. It could not capture the different trend of each item code in the same seasonality
 
 ### Lessons Learned
 
