@@ -1,4 +1,4 @@
-![image](https://github.com/prattapong/Data-Science-Portfolio/assets/124485030/4988f427-a28e-4466-a512-59556d7cac60)# Project Name
+# Supermarket Sales Data (Time-series Forecasting)
 
 ## Project Overview
 
