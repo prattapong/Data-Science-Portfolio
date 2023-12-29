@@ -1,4 +1,4 @@
-# Project Name
+![image](https://github.com/prattapong/Data-Science-Portfolio/assets/124485030/4988f427-a28e-4466-a512-59556d7cac60)# Project Name
 
 ## Project Overview
 
@@ -25,6 +25,8 @@ The code for this project can be found in the [code folder](./code). Feel free t
 ### Challenges Faced
 
 1. In the baseline model, the model has high root mean squared error with the value of 77.98 for train and 76.63 for test. It could not capture the different trend of each item code in the same seasonality
+![image](https://github.com/prattapong/Data-Science-Portfolio/assets/124485030/69062919-85f4-43b6-94ce-23af76ce4005)
+2. 
 
 ### Lessons Learned
 
