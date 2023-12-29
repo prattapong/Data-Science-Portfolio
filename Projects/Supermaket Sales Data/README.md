@@ -7,7 +7,7 @@
 ## Technologies Used
 
 - **Programming Language:** Python
-- **Libraries and Frameworks:** Pandas, Scikit-Learn
+- **Libraries and Frameworks:** Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost
 - **Tools:** [e.g., Jupyter Notebook, VS Code]
 
 ## Code
