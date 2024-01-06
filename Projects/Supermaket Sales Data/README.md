@@ -34,6 +34,7 @@ The code for this project can be found in the [code folder](./code). Feel free t
 1. From the baseline model, tuning the hyperparameter took place to improve the overfitting by
    * Reducing `learning_rate` to 0.001 and 0.0007 to let the algorithm capture less changing
    * Reducing `early_stoping_rounds` to 200 to stop the algorithm perform worse in RMSE
+2. 
 
 ---
 
