@@ -39,18 +39,15 @@ Feel free to explore my portfolio to see how I've applied these passions and ski
 
 ### Project1: Time-Series Forecasting on Supermarket Sales
 
-[Project Overview]
+**Objective:**
+The objective of this project is to develop an accurate time-series forecasting model for supermarket sales over a 2-year period, with a focus on capturing the peak sales during Chinese New Year. The goal is to leverage feature engineering and advanced machine learning techniques, specifically XGBoostRegressor, and optimize hyperparameters using TimeseriesSplit and GridSearchCV to achieve the best predictive performance.
 
 - **Technologies Used:** Python, Pandas, Seaboarn, Scikit-Learn
 - **Code:** [Link to Code](./Projects/Project1/code)
+- **Data:** [Link to Code](./Projects/Project1/data)
 - **Results:** [Brief description or link to project results or visualizations]
 - **Challenges and Learnings:** [Discuss challenges faced and lessons learned]
 
-[Add more projects using the same format]
-
-## Data
-
-This folder contains datasets used in various projects. Each project's data is stored in its respective folder.
 
 ## Contact Information
 
