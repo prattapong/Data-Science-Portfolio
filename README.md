@@ -37,11 +37,11 @@ Feel free to explore my portfolio to see how I've applied these passions and ski
 
 ## Projects
 
-### Project1: Project Name
+### Project1: Time-Series Forecasting on Supermarket Sales
 
 [Project Overview]
 
-- **Technologies Used:** Python, Pandas, Scikit-Learn
+- **Technologies Used:** Python, Pandas, Seaboarn, Scikit-Learn
 - **Code:** [Link to Code](./Projects/Project1/code)
 - **Results:** [Brief description or link to project results or visualizations]
 - **Challenges and Learnings:** [Discuss challenges faced and lessons learned]
