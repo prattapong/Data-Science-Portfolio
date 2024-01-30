@@ -6,7 +6,7 @@ Here, you'll find a collection of my data science projects, showcasing my skills
 
 ## Table of Contents
 
-1. [Project1: Project Name](./Projects/Project1/README.md)
+1. [Project1: Time-Series Forecasting on Supermarket Sale](./Projects/Project1/README.md)
 2. [Project2: Project Name](./Projects/Project2/README.md)
 3. [...](#)
 
